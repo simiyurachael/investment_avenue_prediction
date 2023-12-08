@@ -1,0 +1,41 @@
+gender,age,Stock_Marktet,Factor,Objective,Purpose,Duration,Invest_Monitor,Expect,Avenue
+Female,34,Yes,Returns,Capital Appreciation,Wealth Creation,1-3 years,Monthly,20%-30%,Mutual Fund
+Female,23,No,Locking Period,Capital Appreciation,Wealth Creation,More than 5 years,Weekly,20%-30%,Mutual Fund
+Male,30,Yes,Returns,Capital Appreciation,Wealth Creation,3-5 years,Daily,20%-30%,Equity
+Male,22,Yes,Returns,Income,Wealth Creation,Less than 1 year,Daily,10%-20%,Equity
+Female,24,No,Returns,Income,Wealth Creation,Less than 1 year,Daily,20%-30%,Equity
+Female,24,No,Risk,Capital Appreciation,Wealth Creation,1-3 years,Daily,30%-40%,Mutual Fund
+Female,27,Yes,Returns,Capital Appreciation,Wealth Creation,3-5 years,Monthly,20%-30%,Equity
+Male,21,Yes,Risk,Capital Appreciation,Wealth Creation,3-5 years,Monthly,20%-30%,Mutual Fund
+Male,35,Yes,Returns,Growth,Savings for Future,1-3 years,Weekly,20%-30%,Equity
+Male,31,Yes,Returns,Capital Appreciation,Wealth Creation,3-5 years,Monthly,30%-40%,Fixed Deposits
+Female,35,Yes,Risk,Growth,Savings for Future,3-5 years,Monthly,20%-30%,Mutual Fund
+Male,29,Yes,Risk,Capital Appreciation,Wealth Creation,1-3 years,Monthly,20%-30%,Mutual Fund
+Female,21,No,Returns,Capital Appreciation,Savings for Future,1-3 years,Weekly,20%-30%,Mutual Fund
+Female,28,Yes,Returns,Capital Appreciation,Wealth Creation,1-3 years,Monthly,20%-30%,Mutual Fund
+Female,25,Yes,Returns,Capital Appreciation,Wealth Creation,1-3 years,Monthly,20%-30%,Fixed Deposits
+Male,27,Yes,Returns,Capital Appreciation,Wealth Creation,1-3 years,Monthly,20%-30%,Mutual Fund
+Female,28,Yes,Risk,Growth,Wealth Creation,1-3 years,Monthly,20%-30%,Fixed Deposits
+Male,27,Yes,Returns,Capital Appreciation,Wealth Creation,1-3 years,Monthly,20%-30%,Mutual Fund
+Male,29,Yes,Risk,Capital Appreciation,Wealth Creation,1-3 years,Monthly,20%-30%,Mutual Fund
+Male,26,Yes,Risk,Capital Appreciation,Wealth Creation,3-5 years,Monthly,20%-30%,Fixed Deposits
+Male,29,Yes,Returns,Growth,Wealth Creation,3-5 years,Weekly,20%-30%,Mutual Fund
+Female,24,Yes,Risk,Capital Appreciation,Wealth Creation,3-5 years,Monthly,20%-30%,Equity
+Male,27,Yes,Returns,Capital Appreciation,Wealth Creation,3-5 years,Monthly,20%-30%,Mutual Fund
+Male,25,Yes,Risk,Growth,Savings for Future,3-5 years,Weekly,20%-30%,Public Provident Fund
+Female,26,Yes,Returns,Capital Appreciation,Wealth Creation,3-5 years,Monthly,30%-40%,Public Provident Fund
+Female,32,Yes,Risk,Growth,Wealth Creation,3-5 years,Monthly,20%-30%,Mutual Fund
+Male,26,Yes,Returns,Capital Appreciation,Wealth Creation,3-5 years,Monthly,20%-30%,Mutual Fund
+Male,31,Yes,Risk,Growth,Savings for Future,1-3 years,Monthly,20%-30%,Fixed Deposits
+Male,29,Yes,Returns,Capital Appreciation,Wealth Creation,1-3 years,Monthly,20%-30%,Equity
+Female,34,Yes,Returns,Income,Returns,3-5 years,Monthly,10%-20%,Mutual Fund
+Male,27,No,Returns,Growth,Wealth Creation,1-3 years,Monthly,10%-20%,Mutual Fund
+Female,31,Yes,Returns,Capital Appreciation,Wealth Creation,3-5 years,Monthly,20%-30%,Fixed Deposits
+Male,27,Yes,Returns,Capital Appreciation,Wealth Creation,3-5 years,Monthly,30%-40%,Equity
+Male,26,Yes,Returns,Capital Appreciation,Returns,1-3 years,Monthly,20%-30%,Fixed Deposits
+Male,27,Yes,Returns,Capital Appreciation,Wealth Creation,1-3 years,Weekly,20%-30%,Mutual Fund
+Male,30,Yes,Risk,Growth,Wealth Creation,3-5 years,Monthly,20%-30%,Fixed Deposits
+Male,30,Yes,Returns,Capital Appreciation,Wealth Creation,1-3 years,Monthly,20%-30%,Equity
+Male,25,Yes,Risk,Growth,Savings for Future,3-5 years,Monthly,30%-40%,Public Provident Fund
+Male,31,Yes,Risk,Growth,Wealth Creation,1-3 years,Weekly,20%-30%,Equity
+Male,29,Yes,Returns,Capital Appreciation,Wealth Creation,3-5 years,Monthly,20%-30%,Fixed Deposits
